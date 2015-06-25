@@ -1,0 +1,31 @@
+body {
+  padding-top: 50px;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+#title {
+  border-bottom: 1px solid #c3bdbd;
+  padding-bottom: 0px;
+  margin-bottom: 0;
+}
+textarea {
+  width: 100%;
+  padding-left: 0px;
+  margin-left: 0px;
+  border: 0px;
+}
+#markdown {
+  border-right: 1px solid #c3bdbd;
+  width: 50%;
+  padding: 0px;
+  margin: 0px;
+  height: 100%;
+  margin-left: 0px;
+  padding-left: 0px;
+  padding-top: 0px;
+}
+
